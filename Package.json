@@ -1,0 +1,8 @@
+{
+  "name": "auto-touch-app",
+  "version": "1.0.0",
+  "description": "Macro controller app for recording and playback",
+  "main": "Auto touch.lua",
+  "author": "Hack3r8282",
+  "license": "MIT"
+}
